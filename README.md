@@ -1,4 +1,4 @@
-![Logo](assets/Repo-Logo.png)
+![Logo](assets/DebianHub.png)
 
 # Debian
 Just anothe Debian stuff repo
